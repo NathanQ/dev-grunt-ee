@@ -11,11 +11,12 @@ To get started, clone this repo alongside the project and install the dependenci
 The Gruntfile is written to watch files within the dev_assets directory and write to dev_assets/css, html/css, and html/js. The dev_assets/css stylesheet is Sass to css and includes Sass file names and line numbers which is handy in development. The html/css and html/js are minified for production.
 
 dev-grunt-ee
+
 --dev_assets
 
-----sass
+  ----sass
 
-----scripts
+  ----scripts
 
 html
 
