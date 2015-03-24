@@ -12,9 +12,13 @@ The Gruntfile is written to watch files within the dev_assets directory and writ
 
 dev-grunt-ee
 --dev_assets
+
 ----sass
+
 ----scripts
 
 html
+
 --css
+
 --scripts
